@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Top 3</string>
+    <string name="top_3_contacts">Top 3 Contacts:</string>
+    <string name="text3">Text</string>
+    <string name="text">Text</string>
+    <string name="contact_2">Contact 2:</string>
+    <string name="call3">Call</string>
+    <string name="call2">Call</string>
+    <string name="call1">Call</string>
+    <string-array name="contact_names">
+        <item>Mom</item>
+        <item>Dad</item>
+        <item>Bestie</item>
+    </string-array>
+    <string-array name="phone_numbers">
+        <item>(715)718 2165</item>
+        <item>(715)741 8741</item>
+        <item>(715)444 1259</item>
+    </string-array>
+    <string-array name="textMsg">
+        <item>Hi.</item>
+        <item>On my way.</item>
+        <item>Can not talk right now. I will call you later.</item>
+        <item>LOL</item>
+        <item>Ok</item>
+    </string-array>
+</resources>
